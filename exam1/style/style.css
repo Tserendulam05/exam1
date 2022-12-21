@@ -1,0 +1,27 @@
+@import url('https//fonts.googleapis.com/css2? family=Poppins: wght@300;400;500;600&display=swap');
+
+
+.{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: 'Bold', 'SemiBold', 'Regular' , sans-serif;
+	;
+}
+.sidebar{
+	width: 345px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 100%;
+	background: white;
+}
+.main-content{
+	margin-left: 345px;
+	background-color: #C2C2C2;
+}
+.sidebar-brand{
+	text-align: center;
+}
